@@ -97,25 +97,16 @@ timeline
 </div>
 
 <div align="center">
-<a href="Portfolio Link" target="_blank">
+<a href="https://saurabh-tiwade.github.io/Portpholio-website-SR/">Portfolio</a>
+
+
 <img src="https://img.shields.io/badge/📋%20View%20All%20Certificates-FF6B6B?style=for-the-badge&logo=certificate&logoColor=white"/>
 </a>
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🌟 **What Makes Me Unique**
 
@@ -152,7 +143,7 @@ timeline
 <img src="https://img.shields.io/badge/📧%20Email-saurabhtiwade1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="Portfolio Link" target="_blank">
+<a href="https://saurabh-tiwade.github.io/Portpholio-website-SR/">Portfolio</a>
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Work-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
